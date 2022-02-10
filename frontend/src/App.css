@@ -1,0 +1,10 @@
+.App {
+    width: 100%;
+    padding: 20px 0;
+}
+
+.Plot {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
